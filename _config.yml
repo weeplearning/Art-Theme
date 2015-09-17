@@ -1,0 +1,14 @@
+# Site settings
+title: Art Theme
+email: your-email@domain.com
+description: Dev Front-End // Web-Designer
+
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+port: 9000
